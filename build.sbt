@@ -5,7 +5,7 @@ ThisBuild / scalaVersion := "2.13.16"
 
 val diplomacy = (project in file(".")).settings(
   name := "diplomacy",
-  version := "0.0.1",
+  version := "0.0.2",
   organization := "edu.duke.cs.apex",
   libraryDependencies ++= Seq(
     "org.chipsalliance" %% "chisel" % chiselVersion,
