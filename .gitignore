@@ -1,3 +1,8 @@
 dependencies/
 out/
 *target/
+.idea/
+.metals/
+.bloop/
+.bsp/
+.vscode/
