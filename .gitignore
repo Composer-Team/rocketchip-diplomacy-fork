@@ -6,3 +6,5 @@ out/
 .bloop/
 .bsp/
 .vscode/
+.DS_Store
+project/
